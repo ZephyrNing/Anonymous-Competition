@@ -4,8 +4,8 @@ __pycache__/
 src/feature_engineering/feature_selector_chunked.py
 src/feature_engineering/split_parquet.py
 
+nohup.out
 drw-crypto-market-prediction.zip
 zifan_4public
 zifan_4public.pub
 
-nohup.out
